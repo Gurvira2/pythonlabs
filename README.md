@@ -1,6 +1,15 @@
 ## List of Python Labs
 
 
+## Getting Started
+
+- Install Python 3.x
+
+```
+python3
+Python 3.10.8 (main, Oct 13 2022, 09:48:40) [Clang 14.0.0 (clang-1400.0.29.102)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+```
 
 
 
