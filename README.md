@@ -1,3 +1,11 @@
+![stars](https://img.shields.io/github/stars/Gurvira2/pythonlabs)
+![forks](https://img.shields.io/github/forks/Gurvira2/pythonlabs)
+![Discord](https://img.shields.io/discord/1020180904129335379)
+![issues](https://img.shields.io/github/issues/Gurvira2/pythonlabs)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Gurvira2.pythonlabs)
+
+
+
 ## List of Python Labs
 
 
